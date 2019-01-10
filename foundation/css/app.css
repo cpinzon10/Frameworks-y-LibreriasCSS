@@ -20,7 +20,7 @@ body {
   background-image: url("../imgs/cocinamoderna.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-
+  background-attachment: fixed;
 }
 
 .hrencabezado {
