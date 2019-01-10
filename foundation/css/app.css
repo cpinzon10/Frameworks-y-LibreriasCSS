@@ -1,0 +1,86 @@
+/*
+* {
+  outline: 1px solid red;
+}
+*/
+
+@font-face {
+    font-family: 'DancingScript-Regular';
+    src: url('../fonts/DancingScript-Regular.ttf') format('truetype');
+
+}
+
+html {
+  padding: 0;
+  margin: 0;
+
+}
+body {
+
+  background-image: url("../imgs/cocinamoderna.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.hrencabezado {
+  width: 1px;;
+  height: 70px;
+  background: #F5F6CE;
+}
+
+.encabezado {
+  background: #848484;
+}
+
+h2 {
+  color: #F5F6CE;
+}
+
+h6 {
+  color: #F5F6CE;
+}
+
+.seccionizq {
+  background-color: rgba(255, 230, 204, 0.7);
+  color:rgb(255, 102, 0);
+}
+.seccionder {
+  background-color: rgba(230, 255, 204, 0.7);
+  color:#424242;
+
+}
+
+ul li a {
+  color:rgb(255, 102, 0);
+}
+
+img[src^='imgs/menu_'] {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 7px;
+}
+.buscar {
+  margin-top: 8px;
+}
+h5 {
+  font-family:'DancingScript-Regular';
+  font-size: 1em;
+}
+.menu_7 {
+  width: 570px;
+}
+.comentarioboton{
+  background: #00b359;
+}
+img[src$='_icono.png'] {
+  height: 40px;
+  width: 50px;
+}
+.divprimercomentario {
+  outline: 1px solid #E6E6E6;
+  background: white;
+  padding: 8px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
