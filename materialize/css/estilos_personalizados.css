@@ -1,15 +1,6 @@
 .imglogo {
-  height:150px;
-}
-
-nav {
-    height: 110px;
-}
-
-
-
-
-.d2 {
-  outline: 1px solid red;
-  margin-top: 45px;
+  width: 250px;
+  height: 100px;
+  position: absolute;
+  margin-top: 20px;
 }
