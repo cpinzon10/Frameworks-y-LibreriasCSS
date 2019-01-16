@@ -6,7 +6,7 @@ html {
 }
 body {
 
-  background-image: url("../imgs/fondopaisaje.jpg");
+  background-image: url("../imgs/fondopaisaje3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -14,24 +14,43 @@ body {
 
 .imglogo {
   position: absolute;
-  width: 220px;
-  margin-top: 25px;
-
-
+  width: 200px;
+  margin-top: 10px;
 }
 
-i{
-  color: white;
-}
 
 @media (max-width: 600px) {
   .imglogo {
     width: 30%;
-    margin-top:0px;
+    margin-top:10px;
   }
-
   .divslogan span {
     margin-left: 0px;
     font-size: 12px;
   }
+  .dc2 {
+    margin-top: 320px;
+  }
+}
+
+.d1 {
+  margin-top: 90px;
+}
+
+.imgcentral {
+  height: 550px;
+  width: 75%;
+}
+
+.imgesquina {
+  height: 200px;
+  width: 80%;
+}
+
+.redes {
+  margin-bottom: 25px;
+}
+
+.divcontenido {
+  margin-bottom: 8px;
 }
